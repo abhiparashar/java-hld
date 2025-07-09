@@ -89,6 +89,7 @@
 - **Exactly-Once**: Idempotent producers, transactional consumers
 - **Interview Relevance**: Event-driven architecture, streaming, message queues
 
+
 ---
 
 ## **Phase 3: Microservices & Service Mesh (Weeks 13-18)**
